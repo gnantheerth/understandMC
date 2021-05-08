@@ -3,8 +3,10 @@ package java.first;
 public class first1 {
 
     boolean conflict = true;
+    String s= "hi";
     public static void main(String[] args) {
         add(2,3);
+
 
     }
 
