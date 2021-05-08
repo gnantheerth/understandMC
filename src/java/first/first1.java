@@ -3,7 +3,14 @@ package java.first;
 public class first1 {
 
     boolean conflict = true;
+
     String s= "hi";
+
+    double dob=1.5;
+    double dob1=1.5;
+    double dob2=1.5;
+    double dob3=1.5;
+
     public static void main(String[] args) {
         add(2,3);
 
